@@ -10,3 +10,5 @@ one more bug fix
 fourt bug shorted
 
 fifth bug fix
+
+2024 footer added
