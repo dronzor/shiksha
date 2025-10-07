@@ -1,3 +1,5 @@
 purplemode added for git
 
 added fixes to purple
+
+git purple push on main not origin
