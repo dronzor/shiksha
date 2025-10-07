@@ -1,1 +1,3 @@
 purplemode added for git
+
+added fixes to purple
