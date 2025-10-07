@@ -16,3 +16,5 @@ fifth bug fix
 add something new on master
 
 another fix massage for purple mode
+
+main branch push on git not github
