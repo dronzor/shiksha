@@ -18,3 +18,5 @@ add something new on master
 another fix massage for purple mode
 
 main branch push on git not github
+
+git push on origin main after merge of purple mode
